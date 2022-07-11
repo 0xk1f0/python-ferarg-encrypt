@@ -1,2 +1,3 @@
 # python-ferarg-encrypt
-POC-Encryption using fernet and argon2
+
+PoC-Encryption using fernet and argon2
